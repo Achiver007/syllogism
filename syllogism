@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllogisms: Explanation and Examples</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .example {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Syllogisms: Explanation and Examples</h1>
+    <p>Syllogisms test logical reasoning by presenting statements (premises) and asking you to deduce valid conclusions. Below are the types of syllogisms with explanations and examples.</p>
+
+    <h2>1. Universal Affirmative (All A are B)</h2>
+    <p>This statement means that every element of A is also an element of B. However, not all B need to be A.</p>
+    <div class="example">
+        <strong>Statements:</strong> <br>
+        1. All dogs are animals. <br>
+        2. All animals are living beings. <br><br>
+        <strong>Conclusions:</strong> <br>
+        1. All dogs are living beings. (True) <br>
+        2. All living beings are dogs. (False)
+    </div>
+
+    <h2>2. Universal Negative (No A is B)</h2>
+    <p>This statement means that no element of A shares any relationship with B.</p>
+    <div class="example">
+        <strong>Statements:</strong> <br>
+        1. No cat is a dog. <br>
+        2. All dogs are animals. <br><br>
+        <strong>Conclusions:</strong> <br>
+        1. No cat is an animal. (False) <br>
+        2. Some animals are not cats. (True)
+    </div>
+
+    <h2>3. Particular Affirmative (Some A are B)</h2>
+    <p>This statement means that at least one element of A is also an element of B.</p>
+    <div class="example">
+        <strong>Statements:</strong> <br>
+        1. Some flowers are roses. <br>
+        2. All roses are red. <br><br>
+        <strong>Conclusions:</strong> <br>
+        1. Some flowers are red. (True) <br>
+        2. All flowers are red. (False)
+    </div>
+
+    <h2>4. Particular Negative (Some A are not B)</h2>
+    <p>This statement means that at least one element of A is definitely not an element of B.</p>
+    <div class="example">
+        <strong>Statements:</strong> <br>
+        1. Some fruits are apples. <br>
+        2. Some fruits are not oranges. <br><br>
+        <strong>Conclusions:</strong> <br>
+        1. Some apples are not oranges. (True) <br>
+        2. All fruits are oranges. (False)
+    </div>
+
+    <h2>5. Mixed Statements</h2>
+    <p>These involve a combination of universal and particular statements.</p>
+    <div class="example">
+        <strong>Statements:</strong> <br>
+        1. All books are papers. <br>
+        2. Some papers are journals. <br><br>
+        <strong>Conclusions:</strong> <br>
+        1. Some books are journals. (False) <br>
+        2. Some journals are papers. (True)
+    </div>
+
+    <footer>
+        <p>Practice more syllogisms to sharpen your reasoning skills!</p>
+    </footer>
+</body>
+</html>
