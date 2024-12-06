@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllogism Practice: 25 Examples with Solutions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .example {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .solution {
+            background-color: #f1f1f1;
+            border-left: 5px solid #4CAF50;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Syllogism Practice: 25 Examples with Solutions</h1>
+    <p>Below are 25 syllogism examples, each followed by its solution. These examples cover all types of syllogisms.</p>
+
+    <!-- Example 1 -->
+    <div class="example">
+        <h2>Example 1</h2>
+        <strong>Statements:</strong><br>
+        1. All dogs are animals.<br>
+        2. All animals are living beings.<br><br>
+        <strong>Conclusions:</strong><br>
+        1. All dogs are living beings.<br>
+        2. All living beings are dogs.<br>
+        <div class="solution">
+            <strong>Solution:</strong><br>
+            Conclusion 1: True (Dogs are a subset of animals, which are living beings).<br>
+            Conclusion 2: False (Living beings include more than just dogs).
+        </div>
+    </div>
+
+    <!-- Example 2 -->
+    <div class="example">
+        <h2>Example 2</h2>
+        <strong>Statements:</strong><br>
+        1. Some fruits are apples.<br>
+        2. All apples are sweet.<br><br>
+        <strong>Conclusions:</strong><br>
+        1. Some fruits are sweet.<br>
+        2. All fruits are sweet.<br>
+        <div class="solution">
+            <strong>Solution:</strong><br>
+            Conclusion 1: True (Fruits include apples, which are sweet).<br>
+            Conclusion 2: False (Not all fruits are apples or sweet).
+        </div>
+    </div>
+
+    <!-- Example 3 -->
+    <div class="example">
+        <h2>Example 3</h2>
+        <strong>Statements:</strong><br>
+        1. No student is a teacher.<br>
+        2. Some teachers are graduates.<br><br>
+        <strong>Conclusions:</strong><br>
+        1. No student is a graduate.<br>
+        2. Some graduates are not students.<br>
+        <div class="solution">
+            <strong>Solution:</strong><br>
+            Conclusion 1: False (No link between students and graduates is stated).<br>
+            Conclusion 2: True (Teachers are graduates, and no teacher is a student).
+        </div>
+    </div>
+
+    <!-- Example 4 -->
+    <div class="example">
+        <h2>Example 4</h2>
+        <strong>Statements:</strong><br>
+        1. All cats are animals.<br>
+        2. Some animals are birds.<br><br>
+        <strong>Conclusions:</strong><br>
+        1. Some cats are birds.<br>
+        2. All birds are animals.<br>
+        <div class="solution">
+            <strong>Solution:</strong><br>
+            Conclusion 1: False (No overlap between cats and birds).<br>
+            Conclusion 2: True (Birds are included in animals).
+        </div>
+    </div>
+
+    <!-- Example 5 -->
+    <div class="example">
+        <h2>Example 5</h2>
+        <strong>Statements:</strong><br>
+        1. All pens are tools.<br>
+        2. No tool is a toy.<br><br>
+        <strong>Conclusions:</strong><br>
+        1. No pen is a toy.<br>
+        2. Some toys are not tools.<br>
+        <div class="solution">
+            <strong>Solution:</strong><br>
+            Conclusion 1: True (Pens are tools, and tools cannot be toys).<br>
+            Conclusion 2: True (Toys are separate from tools).
+        </div>
+    </div>
+
+    
+
+</body>
+</html>
